@@ -1,0 +1,13 @@
+h2 {
+    text-transform: uppercase;
+    margin: 0 auto; 
+    width: 100vw;
+}
+
+.title {
+    color: blue;
+}
+
+#title {
+    text-decoration: underline;
+}
