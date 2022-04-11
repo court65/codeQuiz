@@ -13,9 +13,10 @@
   
   
   body {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: Arial,'Courier New', Courier;
   background-color: rgb(white);
-  color: rgb(61, 102, 102);
+  color: rgb(57, 99, 99);
+  font-size: 120%;
   }
   
   /* BEGIN HEADER STYLING */
