@@ -28,9 +28,18 @@ let scoreListE1 = document.querySelector('#score-list');
 let scoreList =[];
 
 
+// ANSWER BUTTON
+const ansBtn = document.querySelector("button.answer-btn");
 
-const start = document.querySelector("#start");
+// SUBMIT-CLEAR-VIEW-RETURN
+let submitScrBtn = document.querySelector("#submit-score");
+let clearScrBtn = document.querySelector("#clearScores");
+let viewScrBtn = document.querySelector("#view-scores");
+let goBackBtn = document.querySelector("#goBack");
 
-const start = document.querySelector("#start");
+//ANSWER CALL
+const ans1Btn = document.querySelector("#answer-1");
 
-const start = document.querySelector("#start");
+const ans2Btn = document.querySelector("#answer-2");
+const ans3Btn = document.querySelector("#answer-3");
+const ans4Btn = document.querySelector("#answer-4");
